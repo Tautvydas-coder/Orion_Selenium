@@ -1,0 +1,10 @@
+# Selenium testing task from Rodion
+# Create test to
+# 1. go to https://www.orioninc.com/
+# 3. then Company -> careers -> Latin America
+# 4. Search Automation Engineer (Robot+Python)
+# 5 Press Automation Engineer (Robot+Python)
+# 6. press "Apply now" button
+# 7. First and Lastname generate
+# 8. generate random email@[hardcode (gmail/yahoo/else)]
+# 9. generate Primary Phone number from (8x) xxx xxxx
